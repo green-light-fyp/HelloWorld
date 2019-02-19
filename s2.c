@@ -3,7 +3,7 @@
 
 int main() {
 
-	printf("Bucky is Amazing \n");
+	printf("Bucky is Amazing AND awesome\n");
 	printf("Bucky is cool \a");
 	return 0;
 	
